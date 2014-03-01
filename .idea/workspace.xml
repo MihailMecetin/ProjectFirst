@@ -2,18 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleModule/src/Game21/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ProjectFirst.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Main.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1393066281407" ignored="false" />
+    <file path="/Main.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1393671318966" ignored="false" />
     <file path="/fragment.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1392461336896" ignored="false" />
-    <file path="/Dummy.txt" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1393059768230" ignored="false" />
+    <file path="/Dummy.txt" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1393666629035" ignored="false" />
     <file path="/HumanBody.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1391852405817" ignored="false" />
     <file path="/Chess.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1391857107844" ignored="false" />
     <file path="/Board.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1391856178982" ignored="false" />
     <file path="/Comp.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1393063629461" ignored="false" />
-    <file path="/User.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1393066501530" ignored="false" />
+    <file path="/User.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1393668515836" ignored="false" />
+    <file path="/SwitchCase.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1393665183826" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,10 +76,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SimpleModule/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="42" selection-start="477" selection-end="477" vertical-scroll-proportion="0.22037037">
+            <state line="31" column="23" selection-start="442" selection-end="442" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -86,7 +88,7 @@
       <file leaf-file-name="Comp.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SimpleModule/src/com/company/Comp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="7" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0">
+            <state line="13" column="44" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -95,17 +97,19 @@
       <file leaf-file-name="User.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SimpleModule/src/com/company/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="40" selection-start="980" selection-end="980" vertical-scroll-proportion="0.0">
+            <state line="20" column="13" selection-start="108" selection-end="525" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Inheritance.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson3/Inheritance.java">
+      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SimpleModule/src/Game21/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="32" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="30" column="27" selection-start="328" selection-end="328" vertical-scroll-proportion="0.56666666">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -134,11 +138,16 @@
         <option value="$PROJECT_DIR$/Module3/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/Module2/src/com/company/Board.java" />
         <option value="$PROJECT_DIR$/Module2/src/com/company/Chess.java" />
-        <option value="$PROJECT_DIR$/SundayJava-master/src/Lesson3/Primitives.java" />
-        <option value="$PROJECT_DIR$/SundayJava-master/src/Lesson3/SwitchCase.java" />
         <option value="$PROJECT_DIR$/SimpleModule/src/com/company/Comp.java" />
-        <option value="$PROJECT_DIR$/SimpleModule/src/com/company/User.java" />
         <option value="$PROJECT_DIR$/SimpleModule/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/SundayJava-master/src/Lesson3/Primitives.java" />
+        <option value="$PROJECT_DIR$/SundayJava-master/src/Lesson6/except/Finn.java" />
+        <option value="$PROJECT_DIR$/SundayJava-master/src/Lesson3/SwitchCase.java" />
+        <option value="$PROJECT_DIR$/SundayJava-master/src/Lesson6/Loops/BreakContinue.java" />
+        <option value="$PROJECT_DIR$/SimpleModule/src/Game_21/Main.java" />
+        <option value="$PROJECT_DIR$/SimpleModule/src/CowsAndBulls/Main.java" />
+        <option value="$PROJECT_DIR$/SimpleModule/src/com/company/User.java" />
+        <option value="$PROJECT_DIR$/SimpleModule/src/Game21/Main.java" />
       </list>
     </option>
   </component>
@@ -193,7 +202,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -254,6 +262,54 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="SundayJava-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lesson6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectFirst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectFirst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SundayJava-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lesson6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AssErt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectFirst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectFirst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="SimpleModule" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -276,13 +332,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="company" />
+              <option name="myItemId" value="Game21" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectFirst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectFirst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SimpleModule" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -305,60 +380,6 @@
     <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="Application.Main">
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="SimpleModule" />
-      <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Chess" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Chess" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="SimpleModule" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="BorderL" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson4.GUI.BorderL" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="SundayJava-master" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="false" name="MorePoly" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Lesson4.MorePoly" />
       <option name="VM_PARAMETERS" />
@@ -386,6 +407,54 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="SundayJava-master" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="example" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson6.AssErt.example" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SundayJava-master" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="BreakContinue" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson6.Loops.BreakContinue" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SundayJava-master" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Game21.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SimpleModule" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -480,19 +549,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Chess" />
-      <item index="2" class="java.lang.String" itemvalue="Application.BorderL" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MorePoly" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Overload" />
+      <item index="0" class="java.lang.String" itemvalue="Application.MorePoly" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Overload" />
+      <item index="2" class="java.lang.String" itemvalue="Application.example" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BreakContinue" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Overload" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MorePoly" />
-        <item index="3" class="java.lang.String" itemvalue="Application.BorderL" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Chess" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="4" class="java.lang.String" itemvalue="Application.BreakContinue" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -537,7 +606,11 @@
       <created>1392461732611</created>
       <updated>1392461732611</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="21">
+      <created>1393066555420</created>
+      <updated>1393066555420</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -633,101 +706,117 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson4/GUI/BorderL.java">
+    <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson3/Primitives.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="32" selection-start="297" selection-end="297" vertical-scroll-proportion="0.47309834" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson4/MorePoly.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="17" selection-start="354" selection-end="354" vertical-scroll-proportion="0.35373318">
+        <state line="25" column="40" selection-start="594" selection-end="614" vertical-scroll-proportion="0.7884972">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson3/Encapsulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="31" selection-end="31" vertical-scroll-proportion="0.04161567" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson3/SimpleEnums.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="31" selection-end="31" vertical-scroll-proportion="0.04161567" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SundayJava-master/src/ALL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="32" selection-end="32" vertical-scroll-proportion="0.04161567">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson2/nonStaticNormal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="31" selection-end="31" vertical-scroll-proportion="0.04161567" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson2/TestVisibilityLevel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="31" selection-end="31" vertical-scroll-proportion="0.04161567" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson3/SwitchCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="15" selection-start="1143" selection-end="1143" vertical-scroll-proportion="0.5630355" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson4/Overload.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="18" selection-start="1184" selection-end="1184" vertical-scroll-proportion="0.70746636">
+        <state line="52" column="0" selection-start="1154" selection-end="1503" vertical-scroll-proportion="0.8030888">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson3/Primitives.java">
+    <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson6/Loops/BreakContinue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="42" selection-start="612" selection-end="612" vertical-scroll-proportion="0.52019584" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson2/rememberLesson1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="31" selection-end="31" vertical-scroll-proportion="0.04161567">
+        <state line="59" column="63" selection-start="1295" selection-end="1295" vertical-scroll-proportion="1.2276622">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SundayJava-master/SundayJava.iml">
+    <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson6/except/MyException1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="2" column="13" selection-start="38" selection-end="38" vertical-scroll-proportion="0.04161567">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson6/except/Simplw.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="13" selection-start="38" selection-end="38" vertical-scroll-proportion="0.04161567">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson6/except/noThrowExactly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="13" selection-start="68" selection-end="68" vertical-scroll-proportion="0.08323134">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson3/Inheritance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="32" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0">
+        <state line="28" column="32" selection-start="762" selection-end="762" vertical-scroll-proportion="0.5826193">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleModule/src/com/company/Comp.java">
+    <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson6/AssErt/example2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="7" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0">
+        <state line="5" column="13" selection-start="108" selection-end="108" vertical-scroll-proportion="0.10403917">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleModule/src/com/company/User.java">
+    <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson6/AssErt/Simple.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="40" selection-start="980" selection-end="980" vertical-scroll-proportion="0.0">
+        <state line="2" column="13" selection-start="38" selection-end="38" vertical-scroll-proportion="0.04161567">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson6/except/Finn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="41" selection-start="388" selection-end="447" vertical-scroll-proportion="0.41615668">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson6/except/Throwss.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="13" selection-start="67" selection-end="67" vertical-scroll-proportion="0.08323134">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson6/AssErt/example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="61" selection-start="212" selection-end="212" vertical-scroll-proportion="0.20807834">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SimpleModule/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="42" selection-start="477" selection-end="477" vertical-scroll-proportion="0.22037037">
+        <state line="31" column="23" selection-start="442" selection-end="442" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleModule/src/com/company/Comp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="44" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleModule/src/com/company/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="13" selection-start="108" selection-end="525" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleModule/src/Game21/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="27" selection-start="328" selection-end="328" vertical-scroll-proportion="0.56666666">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
