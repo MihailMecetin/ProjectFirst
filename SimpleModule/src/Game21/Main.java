@@ -48,11 +48,11 @@ public class Main {
         }
         if(Summ == C.Guess){
             C.MaxStones--;
-            System.out.println("Comp vijgral raund.U nego teperj "+C.MaxStones+" kamnej");
+            System.out.println("Comp vijgral raund.U nego teperj "+C.MaxStones+" kamnja");
         }
         else if(Summ == U.Guess){
             U.MaxStones--;
-            System.out.println("Ti vijgral raund.U tebja teperj "+U.MaxStones+" kamnej");
+            System.out.println("Ti vijgral raund.U tebja teperj "+U.MaxStones+" kamnja");
             C.LastWon = !C.LastWon;
         }
         else {
@@ -76,16 +76,20 @@ public class Main {
             int i;
 
             do{
-                Scanner sc = new Scanner(System.in);
-                i = sc.nextInt();
-                if  ( (i>MaxStones) || (i<0) ){
+
+                 //try
+                    Scanner sc = new Scanner(System.in);
+                    i = sc.nextInt();
+
+
+                if  ( !((Object)i  instanceof Integer) || (i >MaxStones) || (i <0) ){
                     System.out.print("Ti Idiot? Poprobuj Snova");
                 }
-            }while( (i>MaxStones) || (i<0) );
+            }while( (i >MaxStones) || (i <0) || !((Object)i instanceof Integer));
 
 
             System.out.println("Ti Vibral "+i);
-            Stones=i;
+            Stones=(Integer)i;
         }
         public void Guess(int Taken){
             System.out.println("Skolko U vas kamnej vmeste?");
@@ -98,10 +102,10 @@ public class Main {
                 do{
                     Scanner sc = new Scanner(System.in);
                     i = sc.nextInt();
-                    if  (i == Taken){
+                    if  (i == Taken || !((Object)i instanceof Integer)){
                         System.out.print("Ti Idiot? Poprobuj Snova");
                     }
-                }while( i==Taken );
+                }while( i==Taken || !((Object)i instanceof Integer));
             }
             else{
                 Scanner sc = new Scanner(System.in);

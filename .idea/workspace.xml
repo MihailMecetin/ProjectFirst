@@ -7,9 +7,9 @@
     </list>
     <ignored path="ProjectFirst.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Main.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1394274550095" ignored="false" />
+    <file path="/Main.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1394276156922" ignored="false" />
     <file path="/fragment.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1392461336896" ignored="false" />
-    <file path="/Dummy.txt" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1394274794484" ignored="false" />
+    <file path="/Dummy.txt" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1394274885489" ignored="false" />
     <file path="/HumanBody.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1391852405817" ignored="false" />
     <file path="/Chess.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1391857107844" ignored="false" />
     <file path="/Board.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1391856178982" ignored="false" />
@@ -106,12 +106,11 @@
       <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SimpleModule/src/Game21/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="31" selection-start="1411" selection-end="1411" vertical-scroll-proportion="1.0074074">
+            <state line="79" column="22" selection-start="1727" selection-end="1727" vertical-scroll-proportion="0.5685185">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#Turn#0;class#Main#0" expanded="false" />
                 <element signature="class#Player#0;class#Main#0" expanded="false" />
-                <element signature="class#User#0;class#Main#0" expanded="false" />
                 <element signature="class#Comp#0;class#Main#0" expanded="false" />
               </folding>
             </state>
@@ -622,7 +621,11 @@
       <created>1394274801230</created>
       <updated>1394274801230</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="21">
+      <created>1394274887645</created>
+      <updated>1394274887645</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -807,12 +810,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SimpleModule/src/Game21/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="31" selection-start="1411" selection-end="1411" vertical-scroll-proportion="1.0074074">
+        <state line="79" column="22" selection-start="1727" selection-end="1727" vertical-scroll-proportion="0.5685185">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#Turn#0;class#Main#0" expanded="false" />
             <element signature="class#Player#0;class#Main#0" expanded="false" />
-            <element signature="class#User#0;class#Main#0" expanded="false" />
             <element signature="class#Comp#0;class#Main#0" expanded="false" />
           </folding>
         </state>
