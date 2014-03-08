@@ -66,12 +66,7 @@ public class Main {
         int MaxStones = 3;
         int Guess = 0;
         boolean LastWon;
-        public void SetStones(int i){
-           this.Stones=i;
-        }
-        public int GetStones(){
-            return Stones;
-        }
+
     }
 
     public static class User extends Player {

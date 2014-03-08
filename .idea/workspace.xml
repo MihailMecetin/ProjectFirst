@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" name="Default" comment="21">
+    <list default="true" id="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleModule/src/Game21/Main.java" afterPath="$PROJECT_DIR$/SimpleModule/src/Game21/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -9,7 +9,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Main.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1394274550095" ignored="false" />
     <file path="/fragment.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1392461336896" ignored="false" />
-    <file path="/Dummy.txt" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1394274502760" ignored="false" />
+    <file path="/Dummy.txt" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1394274794484" ignored="false" />
     <file path="/HumanBody.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1391852405817" ignored="false" />
     <file path="/Chess.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1391857107844" ignored="false" />
     <file path="/Board.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1391856178982" ignored="false" />
@@ -106,7 +106,7 @@
       <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SimpleModule/src/Game21/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="45" selection-start="397" selection-end="397" vertical-scroll-proportion="0.6611111">
+            <state line="63" column="31" selection-start="1411" selection-end="1411" vertical-scroll-proportion="1.0074074">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#Turn#0;class#Main#0" expanded="false" />
@@ -618,7 +618,11 @@
       <created>1393671342731</created>
       <updated>1393671342731</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="21">
+      <created>1394274801230</created>
+      <updated>1394274801230</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -803,7 +807,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SimpleModule/src/Game21/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="45" selection-start="397" selection-end="397" vertical-scroll-proportion="0.6611111">
+        <state line="63" column="31" selection-start="1411" selection-end="1411" vertical-scroll-proportion="1.0074074">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#Turn#0;class#Main#0" expanded="false" />
