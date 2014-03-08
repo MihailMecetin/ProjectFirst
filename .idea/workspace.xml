@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleModule/src/Game21/Main.java" />
+    <list default="true" id="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" name="Default" comment="21">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleModule/src/Game21/Main.java" afterPath="$PROJECT_DIR$/SimpleModule/src/Game21/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ProjectFirst.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Main.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1393671318966" ignored="false" />
+    <file path="/Main.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1394274550095" ignored="false" />
     <file path="/fragment.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1392461336896" ignored="false" />
-    <file path="/Dummy.txt" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1393666629035" ignored="false" />
+    <file path="/Dummy.txt" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1394274502760" ignored="false" />
     <file path="/HumanBody.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1391852405817" ignored="false" />
     <file path="/Chess.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1391857107844" ignored="false" />
     <file path="/Board.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1391856178982" ignored="false" />
@@ -97,7 +97,7 @@
       <file leaf-file-name="User.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SimpleModule/src/com/company/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="13" selection-start="108" selection-end="525" vertical-scroll-proportion="0.0">
+            <state line="14" column="31" selection-start="220" selection-end="456" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -106,9 +106,13 @@
       <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SimpleModule/src/Game21/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="27" selection-start="328" selection-end="328" vertical-scroll-proportion="0.56666666">
+            <state line="21" column="45" selection-start="397" selection-end="397" vertical-scroll-proportion="0.6611111">
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="method#Turn#0;class#Main#0" expanded="false" />
+                <element signature="class#Player#0;class#Main#0" expanded="false" />
+                <element signature="class#User#0;class#Main#0" expanded="false" />
+                <element signature="class#Comp#0;class#Main#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -202,6 +206,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -356,8 +362,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -372,12 +376,12 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration default="false" name="MorePoly" type="Application" factoryName="Application" temporary="true">
@@ -474,19 +478,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -512,6 +503,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -610,7 +614,11 @@
       <created>1393066555420</created>
       <updated>1393066555420</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="21">
+      <created>1393671342731</created>
+      <updated>1393671342731</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -708,51 +716,37 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson3/Primitives.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="40" selection-start="594" selection-end="614" vertical-scroll-proportion="0.7884972">
-          <folding />
-        </state>
+        <state line="25" column="40" selection-start="594" selection-end="614" vertical-scroll-proportion="0.7884972" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson3/SwitchCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="0" selection-start="1154" selection-end="1503" vertical-scroll-proportion="0.8030888">
-          <folding />
-        </state>
+        <state line="52" column="0" selection-start="1154" selection-end="1503" vertical-scroll-proportion="0.8030888" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson6/Loops/BreakContinue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="63" selection-start="1295" selection-end="1295" vertical-scroll-proportion="1.2276622">
-          <folding />
-        </state>
+        <state line="59" column="63" selection-start="1295" selection-end="1295" vertical-scroll-proportion="1.2276622" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson6/except/MyException1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="38" selection-end="38" vertical-scroll-proportion="0.04161567">
-          <folding />
-        </state>
+        <state line="2" column="13" selection-start="38" selection-end="38" vertical-scroll-proportion="0.04161567" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson6/except/Simplw.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="38" selection-end="38" vertical-scroll-proportion="0.04161567">
-          <folding />
-        </state>
+        <state line="2" column="13" selection-start="38" selection-end="38" vertical-scroll-proportion="0.04161567" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson6/except/noThrowExactly.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="13" selection-start="68" selection-end="68" vertical-scroll-proportion="0.08323134">
-          <folding />
-        </state>
+        <state line="4" column="13" selection-start="68" selection-end="68" vertical-scroll-proportion="0.08323134" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson3/Inheritance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="32" selection-start="762" selection-end="762" vertical-scroll-proportion="0.5826193">
-          <folding />
-        </state>
+        <state line="28" column="32" selection-start="762" selection-end="762" vertical-scroll-proportion="0.5826193" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson6/AssErt/example2.java">
@@ -771,16 +765,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson6/except/Finn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="41" selection-start="388" selection-end="447" vertical-scroll-proportion="0.41615668">
-          <folding />
-        </state>
+        <state line="20" column="41" selection-start="388" selection-end="447" vertical-scroll-proportion="0.41615668" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson6/except/Throwss.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="13" selection-start="67" selection-end="67" vertical-scroll-proportion="0.08323134">
-          <folding />
-        </state>
+        <state line="4" column="13" selection-start="67" selection-end="67" vertical-scroll-proportion="0.08323134" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson6/AssErt/example.java">
@@ -806,16 +796,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SimpleModule/src/com/company/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="13" selection-start="108" selection-end="525" vertical-scroll-proportion="0.0">
+        <state line="14" column="31" selection-start="220" selection-end="456" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SimpleModule/src/Game21/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="27" selection-start="328" selection-end="328" vertical-scroll-proportion="0.56666666">
+        <state line="21" column="45" selection-start="397" selection-end="397" vertical-scroll-proportion="0.6611111">
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="method#Turn#0;class#Main#0" expanded="false" />
+            <element signature="class#Player#0;class#Main#0" expanded="false" />
+            <element signature="class#User#0;class#Main#0" expanded="false" />
+            <element signature="class#Comp#0;class#Main#0" expanded="false" />
           </folding>
         </state>
       </provider>
