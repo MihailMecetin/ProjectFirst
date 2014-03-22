@@ -1,6 +1,7 @@
 package Game21;
 
 
+import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;
 
@@ -73,14 +74,16 @@ public class Main {
         public void SetStones(){
             System.out.println("Viberi Chislo ot 0 do "+MaxStones);
 
-            int i;
+            int i = 0;
 
             do{
 
-                 //try
+                 try{
                     Scanner sc = new Scanner(System.in);
                     i = sc.nextInt();
-
+                 }catch (InputMismatchException e){
+                    System.out.println("Tolko cifri!");
+                 }
 
                 if  ( !((Object)i  instanceof Integer) || (i >MaxStones) || (i <0) ){
                     System.out.print("Ti Idiot? Poprobuj Snova");
