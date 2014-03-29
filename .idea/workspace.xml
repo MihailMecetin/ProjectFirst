@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" name="Default" comment="">
+    <list default="true" id="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" name="Default" comment="Not finished">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FirstMaven/pom.xml" />
+      <change type="DELETED" beforePath="D:\Mihail_Mecetin\ProjectFirst\FirstMaven\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mihail_Mecetin\ProjectFirst\SecondM\.idea\compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mihail_Mecetin\ProjectFirst\SecondM\.idea\copyright\profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mihail_Mecetin\ProjectFirst\SecondM\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mihail_Mecetin\ProjectFirst\SecondM\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mihail_Mecetin\ProjectFirst\SecondM\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mihail_Mecetin\ProjectFirst\SecondM\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mihail_Mecetin\ProjectFirst\SecondM\.idea\uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mihail_Mecetin\ProjectFirst\SecondM\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mihail_Mecetin\ProjectFirst\SecondM\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mihail_Mecetin\ProjectFirst\SecondM\SecondM.iml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mihail_Mecetin\ProjectFirst\SecondM\pom.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleModule/src/Game_TicTacToe/Main.java" afterPath="$PROJECT_DIR$/SimpleModule/src/Game_TicTacToe/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ProjectFirst.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Main.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1395485661165" ignored="false" />
-    <file path="/fragment.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1392461336896" ignored="false" />
-    <file path="/Dummy.txt" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1395485803147" ignored="false" />
+    <file path="/Main.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1396089494723" ignored="false" />
+    <file path="/fragment.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1396087659650" ignored="false" />
+    <file path="/Dummy.txt" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1396089843250" ignored="false" />
     <file path="/HumanBody.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1391852405817" ignored="false" />
     <file path="/Chess.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1391857107844" ignored="false" />
     <file path="/Board.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1391856178982" ignored="false" />
@@ -16,6 +30,8 @@
     <file path="/User.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1393668515836" ignored="false" />
     <file path="/SwitchCase.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1393665183826" ignored="false" />
     <file path="/main.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1395484382572" ignored="false" />
+    <file path="$PROJECT_DIR$/SecondM/src/main/webapp/WEB-INF/web.xml" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1396085443544" ignored="false" />
+    <file path="/qqjava.java" changelist="ef52818e-3a06-4a5c-82ec-1fc31fe918f0" time="1396088349735" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +122,7 @@
       <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SimpleModule/src/Game_TicTacToe/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="48" selection-start="504" selection-end="504" vertical-scroll-proportion="0.88148147">
+            <state line="29" column="41" selection-start="552" selection-end="552" vertical-scroll-proportion="0.020807834">
               <folding />
             </state>
           </provider>
@@ -123,6 +139,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitLogSettings">
+    <option name="myStructureFilterPaths" />
     <option name="myDateState">
       <MyDateState />
     </option>
@@ -130,7 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Module2/src/com/company/HumanBody.java" />
         <option value="$PROJECT_DIR$/Module3/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/Module2/src/com/company/Board.java" />
         <option value="$PROJECT_DIR$/Module2/src/com/company/Chess.java" />
@@ -145,9 +161,13 @@
         <option value="$PROJECT_DIR$/SimpleModule/src/com/company/User.java" />
         <option value="$PROJECT_DIR$/SimpleModule/src/Game21/Main.java" />
         <option value="$PROJECT_DIR$/SimpleModule/src/Game_TicTacToe/main.java" />
+        <option value="$PROJECT_DIR$/FirstMaven/src/main/src/qqjava.java" />
         <option value="$PROJECT_DIR$/SimpleModule/src/Game_TicTacToe/Main.java" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -181,7 +201,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -200,7 +220,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -244,6 +263,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="SimpleModule" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectFirst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectFirst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SimpleModule" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -315,6 +352,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -331,12 +369,12 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration default="false" name="MorePoly" type="Application" factoryName="Application" temporary="true">
@@ -404,7 +442,7 @@
       <method />
     </configuration>
     <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Game21.Main" />
+      <option name="MAIN_CLASS_NAME" value="Game_TicTacToe.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -433,19 +471,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -471,6 +496,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -520,7 +558,7 @@
         <item index="1" class="java.lang.String" itemvalue="Application.Main" />
         <item index="2" class="java.lang.String" itemvalue="Application.Main" />
         <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="4" class="java.lang.String" itemvalue="Application.BreakContinue" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -589,26 +627,58 @@
       <created>1395485694911</created>
       <updated>1395485694911</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Not finished">
+      <created>1395485840248</created>
+      <updated>1395485840248</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Not finished">
+      <created>1396087937851</created>
+      <updated>1396087937851</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Not finished">
+      <created>1396088222891</created>
+      <updated>1396088222891</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32858837" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32858837" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39976275" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977462" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977462" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977462" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.6702254" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.67141163" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.6702254" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977462" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -686,9 +756,11 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson3/SwitchCase.java">
+    <entry file="file://$PROJECT_DIR$/SimpleModule/src/Game_TicTacToe/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="0" selection-start="1154" selection-end="1503" vertical-scroll-proportion="0.8030888" />
+        <state line="29" column="41" selection-start="552" selection-end="552" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson6/Loops/BreakContinue.java">
@@ -718,16 +790,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson6/AssErt/example2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="108" selection-end="108" vertical-scroll-proportion="0.10403917">
-          <folding />
-        </state>
+        <state line="5" column="13" selection-start="108" selection-end="108" vertical-scroll-proportion="0.10403917" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson6/AssErt/Simple.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="38" selection-end="38" vertical-scroll-proportion="0.04161567">
-          <folding />
-        </state>
+        <state line="2" column="13" selection-start="38" selection-end="38" vertical-scroll-proportion="0.04161567" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson6/except/Finn.java">
@@ -742,23 +810,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SundayJava-master/src/Lesson6/AssErt/example.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="61" selection-start="212" selection-end="212" vertical-scroll-proportion="0.20807834">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleModule/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="23" selection-start="442" selection-end="442" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleModule/src/com/company/Comp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="44" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="10" column="61" selection-start="212" selection-end="212" vertical-scroll-proportion="0.20807834" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SimpleModule/src/Game21/Main.java">
@@ -773,9 +825,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleModule/src/com/company/Comp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="44" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleModule/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="23" selection-start="442" selection-end="442" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SimpleModule/src/Game_TicTacToe/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="48" selection-start="504" selection-end="504" vertical-scroll-proportion="0.88148147">
+        <state line="29" column="41" selection-start="552" selection-end="552" vertical-scroll-proportion="0.020807834">
           <folding />
         </state>
       </provider>
